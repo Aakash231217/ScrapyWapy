@@ -1,0 +1,581 @@
+[
+    {
+        "id": "4-C4NBHA5KRYCYJE",
+        "name": "Eat Bar - South Bridge Road",
+        "cuisine": [
+            "Western",
+            "Chinese",
+            "Local & Malaysian"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.288056684,
+        "longitude": 103.8486969,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C4MDVPMAFGAJUE",
+        "name": "SF Fruits & Juices - Fullerton Waterboat House",
+        "cuisine": [
+            "Healthy",
+            "Drinks & Beverages",
+            "Fresh Produce"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2870988755951491,
+        "longitude": 103.8535542257581,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C4DUNYMVBAL2FA",
+        "name": "uMart@BoatQuay - Lorong Telok",
+        "cuisine": [
+            "Alcohol",
+            "Snacks",
+            "Groceries",
+            "Convenience",
+            "Drinks & Beverages"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.287214,
+        "longitude": 103.848683,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C4DUNYMVAUW2NT",
+        "name": "uBooze@BoatQuay - Lorong Telok",
+        "cuisine": [
+            "Alcohol",
+            "Snacks",
+            "Beer",
+            "Convenience",
+            "Drinks & Beverages"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.287214,
+        "longitude": 103.848683,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C6K3LLJBMFKZCT",
+        "name": "Burger King - Boat Quay",
+        "cuisine": [
+            "Burgers",
+            "Fast Food"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.285784424,
+        "longitude": 103.8496719,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "SGDD04944",
+        "name": "McDonald's - Boat Quay",
+        "cuisine": [
+            "Burger",
+            "Fast Food",
+            "Halal"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2857211372800634,
+        "longitude": 103.84982956837393,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C4BFVF3DCBDUCE",
+        "name": "Dabao Bento - High Street Plaza",
+        "cuisine": [
+            "Japanese",
+            "Bento",
+            "Fried Chicken"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2903829531375,
+        "longitude": 103.849297971757,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C4BFUFV3JAMCRE",
+        "name": "LaPasta - High Street Plaza",
+        "cuisine": [
+            "Italian",
+            "Pasta"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2903829531375,
+        "longitude": 103.849297971757,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C3X1VRMCLN6WVX",
+        "name": "Fat Bao Bao - High Street Plaza",
+        "cuisine": [
+            "Local & Malaysian",
+            "Snack"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2903829531375,
+        "longitude": 103.849297971757,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C2THARCHMENDVT",
+        "name": "JonesMart - High Street Plaza",
+        "cuisine": [
+            "Alcohol",
+            "Beverages",
+            "Convenience",
+            "Mart",
+            "Islandwide Delivery"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2908608824785464,
+        "longitude": 103.84941059663592,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C2TYVGBWUFVVHA",
+        "name": "Sinfonia Ristorante - Victoria Memorial Hall",
+        "cuisine": [
+            "Italian"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.288532,
+        "longitude": 103.851568,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZDCKELAENM3NA",
+        "name": "Tribe Restaurant - Old Parliament House",
+        "cuisine": [
+            "Western",
+            "Burgers"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.288543,
+        "longitude": 103.851054,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZDTEXAWGTMYLE",
+        "name": "Empress - Asian Civilisations Museum",
+        "cuisine": [
+            "Chinese",
+            "Local & Malaysian",
+            "Seafood"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2871855,
+        "longitude": 103.8512007,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C4DALB43TY2WCJ",
+        "name": "Picotin - Waterboat House",
+        "cuisine": [
+            "Western",
+            "Drinks & Beverages",
+            "Pizza",
+            "Pasta",
+            "Snack"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.287081,
+        "longitude": 103.853392,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C3TCA352NN3GCA",
+        "name": "The Fullerton Hotel Singapore Festive Store - The Fullerton Hotel",
+        "cuisine": [
+            "Mart"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.286265965,
+        "longitude": 103.8526989,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZKXEEBHJ3XDNJ",
+        "name": "SF Farm Mart - The Fullerton Waterboat House",
+        "cuisine": [
+            "Mart",
+            "Groceries"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2870988755951491,
+        "longitude": 103.8535542257581,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZD3LRMAWEKVLJ",
+        "name": "Tandoori Zaika - 70 Boat Quay",
+        "cuisine": [
+            "Indian",
+            "Salad",
+            "Seafood",
+            "Vegetarian Friendly"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2879324,
+        "longitude": 103.849367,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C2VKKAVDLEXCA6",
+        "name": "The Salad Shop - UOB Plaza 2",
+        "cuisine": [
+            "Vegetarian Friendly",
+            "Salad",
+            "Healthy",
+            "Vegan",
+            "Group Friendly"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.285584816,
+        "longitude": 103.8512639,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "SGDD07393",
+        "name": "Indian House/Dumpukht Grills & Curry - Boat Quay",
+        "cuisine": [
+            "Indian",
+            "Vegetarian Friendly",
+            "Seafood"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.287754,
+        "longitude": 103.84936,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZEXJE2USE4HJN",
+        "name": "Shangdong Restaurant - Boat Quay",
+        "cuisine": [
+            "Chinese",
+            "Dim Sum",
+            "Seafood"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2878081535179422,
+        "longitude": 103.8493476,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZACRXVZNJMETT",
+        "name": "Dum Pukht Curry - Boat Quay",
+        "cuisine": [
+            "Indian",
+            "Local & Malaysian",
+            "Seafood"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2877389,
+        "longitude": 103.8493482,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C4EUGETXNZEJJA",
+        "name": "Surrey Hills Deli - Battery Road",
+        "cuisine": [
+            "Coffee & Tea",
+            "Western",
+            "Breakfast & Brunch",
+            "Seafood",
+            "Snack"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.285505316,
+        "longitude": 103.8516629,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C3XWLKDXEKKUJA",
+        "name": "Starbucks - Battery Road",
+        "cuisine": [
+            "Coffee & Tea",
+            "Bakery & Cake",
+            "Drinks & Beverages"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.285505316,
+        "longitude": 103.8516629,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZNFGN3GT3UYJN",
+        "name": "BQ Bar - Boat Quay",
+        "cuisine": [
+            "BBQ & Grill",
+            "Western",
+            "Salad"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2865752707440663,
+        "longitude": 103.84972304799147,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-CZLGVPX1WAB2WE",
+        "name": "Biryani Bae - Boat Quay",
+        "cuisine": [
+            "Indian",
+            "Dessert",
+            "Drinks & Beverages"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.28735388,
+        "longitude": 103.84934126557049,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "SGDD00657",
+        "name": "Kinara - Boat Quay",
+        "cuisine": [
+            "Indian",
+            "Vegetarian",
+            "Seafood",
+            "Salad",
+            "Drinks & Beverages"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2873507,
+        "longitude": 103.8493375,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "SGDD01002",
+        "name": "Sahara Bar & Restaurant - 58 Boat Quay",
+        "cuisine": [
+            "Middle Eastern",
+            "Western"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2873979333333332,
+        "longitude": 103.8493093,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "SGDD01175",
+        "name": "Tong Fu Ju - 50 Boat Quay",
+        "cuisine": [
+            "Chinese",
+            "Seafood",
+            "Noodles"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.2870869,
+        "longitude": 103.8493938,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C3THEFNCC3EXTJ",
+        "name": "Three Amigos Mexican and Indian - Boat Quay",
+        "cuisine": [
+            "Indian",
+            "Western",
+            "Mexican",
+            "Pizza",
+            "Islandwide Delivery"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.28827029100952,
+        "longitude": 103.849253983276,
+        "estimate_delivery_fee": "N/A"
+    },
+    {
+        "id": "4-C3W2TJE3ANKWJA",
+        "name": "Sultan Palace Turkish & Lebanese Cuisine - 73 Boat Quay",
+        "cuisine": [
+            "Indian",
+            "Middle Eastern",
+            "Salad",
+            "Seafood",
+            "Pizza"
+        ],
+        "rating": "N/A",
+        "estimate_time_of_delivery": "N/A",
+        "distance_from_delivery_location": "N/A",
+        "promotional_offers": "N/A",
+        "restaurant_notice": "N/A",
+        "image_link": "N/A",
+        "is_promo_available": false,
+        "latitude": 1.288086924,
+        "longitude": 103.8492329,
+        "estimate_delivery_fee": "N/A"
+    }
+]
